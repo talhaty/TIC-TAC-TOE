@@ -1,6 +1,5 @@
 //                                        	BY TALHA YUNUS
-//									     		2020497
-//								CS103 LAB PROJECT (1D array implementation)
+
 
 
 #include <iostream>
